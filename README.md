@@ -112,32 +112,6 @@ The website is designed to provide a consistent experience across:
 
 Responsive layouts help ensure that the content remains accessible and visually balanced across different screen sizes.
 
----
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git
-```
-
-### 2. Open the Project
-
-Navigate into the project directory:
-
-```bash
-cd YOUR-REPOSITORY-NAME
-```
-
-### 3. Run the Project
-
-If it is a static HTML/CSS/JavaScript project, simply open:
-
-```text
-index.html
-```
-
 in your browser.
 
 For development, you can also use **VS Code Live Server** or another local development server.
